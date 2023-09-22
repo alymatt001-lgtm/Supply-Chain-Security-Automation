@@ -1,4 +1,4 @@
-# s3cme
+# Supply-Chain-Security-Automation
 
 Sample Go app repo with test and release pipelines optimized for software supply chain security (S3C).
 
